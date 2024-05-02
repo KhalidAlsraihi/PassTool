@@ -1,0 +1,62 @@
+[
+  {
+    "fullName": "John Doe",
+    "email": "john.doe@example.com",
+    "message": "This is a sample message from John Doe regarding the service.",
+    "timestamp": "2024-03-05T08:00:00Z"
+  },
+  {
+    "fullName": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "message": "Inquiry about the pricing details for your product.",
+    "timestamp": "2024-03-05T09:15:30Z"
+  },
+  {
+    "fullName": "Michael Brown",
+    "email": "michael.brown@example.com",
+    "message": "Request for a demo session on the latest product features.",
+    "timestamp": "2024-03-05T10:45:00Z"
+  },
+  {
+    "fullName": "Emily Johnson",
+    "email": "emily.johnson@example.com",
+    "message": "Feedback on the customer service experience.",
+    "timestamp": "2024-03-05T11:30:45Z"
+  },
+  {
+    "fullName": "Daniel Williams",
+    "email": "daniel.williams@example.com",
+    "message": "Interested in partnership opportunities.",
+    "timestamp": "2024-03-05T12:00:00Z"
+  },
+  {
+    "fullName": "Jessica Jones",
+    "email": "jessica.jones@example.com",
+    "message": "Complaint about a delayed shipment.",
+    "timestamp": "2024-03-05T13:20:25Z"
+  },
+  {
+    "fullName": "Christopher Davis",
+    "email": "christopher.davis@example.com",
+    "message": "Suggestions for improving the website interface.",
+    "timestamp": "2024-03-05T14:55:00Z"
+  },
+  {
+    "fullName": "Patricia Wilson",
+    "email": "patricia.wilson@example.com",
+    "message": "Asking for the terms and conditions for a return.",
+    "timestamp": "2024-03-05T16:05:05Z"
+  },
+  {
+    "fullName": "Matthew Martinez",
+    "email": "matthew.martinez@example.com",
+    "message": "Inquiry about bulk purchase discounts.",
+    "timestamp": "2024-03-05T17:50:00Z"
+  },
+  {
+    "fullName": "Laura Anderson",
+    "email": "laura.anderson@example.com",
+    "message": "Question regarding the warranty period for your products.",
+    "timestamp": "2024-03-05T19:15:15Z"
+  }
+]
